@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Algorithm_Java.iml" filepath="$PROJECT_DIR$/Algorithm_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/union_find/union_find.iml" filepath="$PROJECT_DIR$/union_find/union_find.iml" />
     </modules>
   </component>
 </project>
